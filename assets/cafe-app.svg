@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 140" role="img" aria-labelledby="title description">
+  <title id="title">Cafe App</title>
+  <desc id="description">A steaming cup of coffee.</desc>
+  <defs>
+    <linearGradient id="coffee" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#coffee)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+    <path d="M35 56h78v33a30 30 0 0 1-30 30H65a30 30 0 0 1-30-30z"/>
+    <path d="M113 64h12a17 17 0 0 1 0 34h-13M28 127h104"/>
+    <path d="M60 38c-8-10 7-13 0-24M82 38c-8-10 7-13 0-24"/>
+  </g>
+</svg>
